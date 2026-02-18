@@ -1,32 +1,51 @@
-# 📰 Notícia – Portal de Notícias Tecnológicas (Projeto Fictício)
+# 📰 Portal de Notícias Tecnológicas
 
-**Descrição**
-O Notícia é uma landing page que representa um **portal de notícias** dedicado a cobrir as últimas novidades e tendências em tecnologia. O site tem como público-alvo entusiastas, profissionais e curiosos da área de inovação, inteligência artificial, blockchain, realidade virtual e outras tecnologias emergentes.
+## 📌 Sobre o projeto  
+Este projeto foi desenvolvido para praticar a estruturação de layouts e a organização de conteúdo usando HTML e CSS.  
+A proposta foi criar um portal fictício de notícias com foco em tecnologia, trabalhando principalmente CSS Grid e responsividade.
 
-O portal busca entregar conteúdo atualizado e relevante de forma clara e acessível, permitindo que os leitores se mantenham informados sobre os avanços tecnológicos que impactam o mundo.
+---
 
-**Objetivos do portal**
+## 🚀 Tecnologias  
+- HTML  
+- CSS  
+- CSS Grid  
+- Git e GitHub  
 
-Apresentar notícias e artigos sobre tecnologias atuais e futuras, com foco em inovação.
+---
 
-Facilitar a navegação e o acesso rápido às principais categorias e temas do universo tecnológico.
+## ✨ Funcionalidades  
+- Estrutura de portal de notícias  
+- Organização de conteúdos por categorias  
+- Layout moderno e limpo  
+- Navegação simples e intuitiva  
+- Responsividade  
 
-Oferecer uma experiência de leitura agradável com um design limpo e organizado.
+---
 
+## 🧠 O que aprendi  
+- Organização de layout com CSS Grid  
+- Estrutura semântica em HTML  
+- Boas práticas de responsividade  
+- Melhor organização de código  
+- Versionamento com Git e GitHub  
 
+---
 
-# Características do projeto
-Este projeto é uma página estática desenvolvida para simular a apresentação de um portal real, com foco em uma estrutura simples e funcional, utilizando apenas HTML e CSS.Para organizar o layout e as seções do site, foi aplicado o CSS Grid, que permitiu a criação de um design alinhado e facilmente gerenciável, facilitando a separação clara dos conteúdos e a manutenção da estrutura visual. A ideia é que o site sirva como um ponto de partida para um portal que ofereça conteúdo dinâmico e atualizado, podendo evoluir futuramente para um site completo.
+## 🎯 Próximos passos  
+- Adicionar interatividade com JavaScript  
+- Melhorar acessibilidade  
+- Evoluir o design  
+- Criar versão mobile-first  
 
-**Tecnologias utilizadas**
+---
 
-HTML5
+## 📎 Acesse o projeto  
+👉 https://thamicordeiro.github.io/Noticia/
 
-CSS3 ( incluindo CSS grid )
+👀 Preview
 
-**Como visualizar**
+<img width="1649" height="865" alt="image" src="https://github.com/user-attachments/assets/3b8f5a46-84fd-4888-910e-c99853ea9f6d" />
 
-Confira o projeto ao vivo aqui: https://thamicordeiro.github.io/Noticia/
+(coloque a imagem ou gif aqui)
 
-**Autora**
-Thamires Cordeiro
