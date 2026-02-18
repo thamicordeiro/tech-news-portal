@@ -41,7 +41,7 @@ A proposta foi criar um portal fictício de notícias com foco em tecnologia, tr
 ---
 
 ## 📎 Acesse o projeto  
-👉 https://thamicordeiro.github.io/Noticia/
+👉 [https://thamicordeiro.github.io/Noticia/](https://thamicordeiro.github.io/tech-news-portal/)
 
 👀 Preview
 
