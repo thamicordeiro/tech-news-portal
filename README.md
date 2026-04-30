@@ -23,27 +23,11 @@ A proposta foi criar um portal fictício de notícias com foco em tecnologia, tr
 
 ---
 
-## 🧠 O que aprendi  
-- Organização de layout com CSS Grid  
-- Estrutura semântica em HTML  
-- Boas práticas de responsividade  
-- Melhor organização de código  
-- Versionamento com Git e GitHub  
-
----
-
-## 🎯 Próximos passos  
-- Adicionar interatividade com JavaScript  
-- Melhorar acessibilidade  
-- Evoluir o design  
-- Criar versão mobile-first  
-
----
-
 ## 📎 Acesse o projeto  
 👉 [https://thamicordeiro.github.io/Noticia/](https://thamicordeiro.github.io/tech-news-portal/)
 
-👀 Preview
+
+Preview
 
 <img width="1649" height="865" alt="image" src="https://github.com/user-attachments/assets/3b8f5a46-84fd-4888-910e-c99853ea9f6d" />
 
